@@ -7,7 +7,7 @@
 - type: embed
 
   embeds:
-  	- title: Welcome to Lilydev!
+  	- title: Welcome to Lilydev
       color: 0xf29ff5
 
   	  description: >
