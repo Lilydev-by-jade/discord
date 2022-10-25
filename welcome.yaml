@@ -7,12 +7,11 @@
 - type: embed
 
   embeds:
-  	- title: Welcome to Lilydev
+    - title: Welcome to Lilydev
       color: 0xf29ff5
 
-  	  description: >
-  	    Lilydev is <@175371646515937281>'s "brand" for her & her friends' projects.
-
+      description: >
+        Lilydev is <@175371646515937281>'s "brand" for her & her friends' projects.
 
 - type: text
 
@@ -21,11 +20,11 @@
 - type: rules
 
   rules:
-  	Absolutely no hate speech: >
-  	  Racism, sexism, homophobia, transphobia, etc.
+    Absolutely no hate speech: >
+      Racism, sexism, homophobia, transphobia, etc.
 
     Help keep everyone safe: >
-  	  Let staff know if there's anything that goes against the rules or makes you feel uncomfortable or unsafe.
+      Let staff know if there's anything that goes against the rules or makes you feel uncomfortable or unsafe.
 
     No age-restricted or obscene content: >
       This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
@@ -54,8 +53,3 @@
 
 - type: text
   text: https://discord.gg/TZAt4PA5av
-
-
-
-
-
