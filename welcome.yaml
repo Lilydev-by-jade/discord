@@ -1,0 +1,58 @@
+# based on quilt's welcome yaml file (https://github.com/QuiltMC/cozy-discord/blob/root/yaml-files/welcome-community.yaml) and also modrinth's welcome channel
+
+- type: text
+
+  text: https://raw.githubusercontent.com/Lilydev-by-jade/discord/main/assets/welcome.png
+
+- type: embed
+
+  embeds:
+  	- title: Welcome to Lilydev!
+      color: 0xf29ff5
+
+  	  description: >
+  	    Lilydev is <@175371646515937281>'s "brand" for her & her friends' projects.
+
+
+- type: text
+
+  text: https://raw.githubusercontent.com/Lilydev-by-jade/discord/main/assets/rules.png
+
+- type: rules
+
+  rules:
+  	Absolutely no hate speech: >
+  	  Racism, sexism, homophobia, transphobia, etc.
+
+    Help keep everyone safe: >
+  	  Let staff know if there's anything that goes against the rules or makes you feel uncomfortable or unsafe.
+
+    No age-restricted or obscene content: >
+      This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
+
+    No spamming: >
+      Pretty obvious, but please don't spam channels or other members.
+
+    Moderators will absolutely mute, kick, or ban at our own discretion: >
+      If you feel you were treated unfairly, message an <@&1000513845716066464>.
+
+    English only: >
+      Unfortunately, we can not reliably moderate this server in any other language, so please only use English only here.
+
+    Follow Discord's rules: >
+      Follow [Discord's Community Guidelines](https://discord.com/guidelines).
+
+- type: links
+  title: Socials/Useful Links
+  color: 0xf29ff5
+
+  links:
+    🌍 Website: https://lilydev.com
+    <:modrinth:1000522854766497813> Modrinth: https://modrinth.com/user/jade
+    <:github_light:1000525612911444118> GitHub: https://github.com/jadelily18
+    <:kofi:1000528343063593081> Ko-fi: https://ko-fi.com/jadelily
+
+
+
+
+
