@@ -77,3 +77,20 @@
     1000419739081900073:
       emoji: 💜
       description: ""
+
+- type: roles
+  id: notification-roles
+  color: 0xf29ff5
+
+  title: Optional notifications
+  description: >
+    Choose which notifications you want to receive! You will still be notified regardless for server announcements, 
+    but you can also choose between release and development notifications as well.
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}"
+  roles:
+    1000858651243843765:
+      emoji: 📢
+      description: "Notifications for project releases and updates."
+    1034990944715554826:
+      emoji: 💻
+      description: "Notifications for project development such as progress updates and random showcases."
